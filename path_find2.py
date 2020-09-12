@@ -12,21 +12,23 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 
 #Color code
 white  = (255, 255, 255)
-green = (0, 255, 0)
+green = (204, 0, 0)
 purple = (128, 0, 128)
 red = (255, 0, 0)
 black = (0, 0, 0)
-orange = (255, 165 ,0)
-turquoise = (64, 224, 208)
-grey = (128, 128, 128)
+orange = (0, 102 ,0)
+turquoise = (153, 204, 255)
+grey = (224, 224, 224)
+lightblue = (0,102, 204)
+yellow = (255,255, 0)
 color_dict = {
     "idle": white, 
     "start": orange, 
-    "end": turquoise, 
+    "end": green, 
     "barrier": black, 
-    "close": red, 
-    "open": green, 
-    "path": purple
+    "close": turquoise, 
+    "open": lightblue, 
+    "path": yellow
     }
 open_list = []
 close_list = []

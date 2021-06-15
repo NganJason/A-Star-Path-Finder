@@ -15,7 +15,5 @@ The A Star Path Finding is a well known path finding algorithm that helps to com
 * Pygame
 
 ## Demo Videos ##
-<video src="https://user-images.githubusercontent.com/57489399/121977721-31053200-cdb9-11eb-948e-8efab81c95e6.mp4" name="User Navigation Flow">
-
-
+<video src="https://user-images.githubusercontent.com/57489399/121978777-7f1b3500-cdbb-11eb-90b0-a607b32a53bf.mp4" name="A Star Path Finding Algo">
 

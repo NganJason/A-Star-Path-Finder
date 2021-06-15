@@ -1,6 +1,6 @@
 # A Star Path Finding Algorithm #
 
-The A Star Path Finding is a well known path finding algorithm that helps to compute the path with the lowest cost (shortest path) in a given map.
+The A Star Path Finding is a well known path finding algorithm that helps to compute the path with the lowest cost (the shortest path) in a given map.
 
 #### Background
 * This project helps to visualize the well known A Star Path Finding Algorithm using Pygame.
